@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+streamlit
+pytest
+goodwe  # opcional: leitura real de inversores GoodWe via UDP/Modbus

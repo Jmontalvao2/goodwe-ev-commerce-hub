@@ -1,0 +1,30 @@
+{
+  "sem_gestao": {
+    "ev_kwh": 522.2,
+    "ev_solar_pct": 38.5,
+    "pico_rede_kw": 129.4,
+    "custo_energia_rs": 605.79,
+    "receita_rs": 1148.82,
+    "margem_rs": 543.03,
+    "autoconsumo_fv_pct": 97.3,
+    "import_pico_kwh": 188.0,
+    "co2_evitado_kg": 542.5,
+    "nao_atendido_kwh": 127.6,
+    "veiculos_atendidos": 24,
+    "veiculos_perdidos": 2
+  },
+  "inteligente": {
+    "ev_kwh": 492.1,
+    "ev_solar_pct": 42.3,
+    "pico_rede_kw": 90.0,
+    "custo_energia_rs": 545.05,
+    "receita_rs": 1082.72,
+    "margem_rs": 537.67,
+    "autoconsumo_fv_pct": 100.0,
+    "import_pico_kwh": 165.1,
+    "co2_evitado_kg": 512.0,
+    "nao_atendido_kwh": 120.7,
+    "veiculos_atendidos": 22,
+    "veiculos_perdidos": 4
+  }
+}
