@@ -3,9 +3,13 @@
 > Sprint 4 – Solução Final Integrada e Inovadora GoodWe
 
 ## Equipe
-| Nome | RM |
-|---|---|
-| _preencher_ | _preencher_ |
+| Nome                  | RM     |
+|-----------------------|--------|
+| João Victor Montalvão | 571630 |
+| Beatriz Araújo        | 570619 |
+| Gabriela Caetano      | 572738 |
+| Laura Picari          | 569914 |
+| Lucas Neves           | 572679 |
 
 🎥 Vídeo (YouTube não listado): _link_
 
@@ -82,9 +86,6 @@ streamlit run src/dashboard.py       # dashboard + assistente
 pytest -q                            # testes
 # Opcional (inversor real na rede local): goodwe_adapter.read(host="192.168.x.x")
 ```
-
-## 8. Roteiro do vídeo (≤ 5 min)
-0:00 problema · 0:40 arquitetura e tecnologias GoodWe · 1:30 demo do dashboard (sliders, gráfico sem gestão × inteligente) · 3:00 assistente virtual · 3:45 resultados e CO₂ · 4:30 limitações e próximos passos.
 
 ## 9. Referências
 GoodWe (inversores, Lynx, HCA, SEMS Portal) · biblioteca `goodwe` (marcelblijleven) · Streamlit · pandas/numpy/matplotlib · MCTI (fator de emissão do SIN).
